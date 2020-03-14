@@ -1,3 +1,3 @@
-## Wuhan Corona (COVID-19) patients dataset will be uploded till 31 arch 2020
+## Wuhan Corona (COVID-19) patients dataset 
 
-#### Please wait patiently
+#### Please wait patiently, dataset will be uploded till 31 March 2020.
