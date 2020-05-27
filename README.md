@@ -1,4 +1,4 @@
-## Wuhan Corona (COVID-19) patients dataset 
+## Coronavirus (COVID-19) CC-19 dataset 
 
 We introduce a small new dataset related to the latest family of coronavirus i.e. COVID-19. Such datasets play an important role in the domain of artificial intelligence for clinical medicine related applications. This data set contains the Computed Tomography scan (CT) slices for 89 subjects. Out of these 89 subjects, 68 were confirmed patients (positive cases) of the COVID-19 virus, and the rest 21 were found to be negative cases. The proposed dataset  “CC-19” contains 34,006 CT scan slices (images) belonging to 98 subjects out of which 28,395 CT scan slices belong to positive COVID patients. This dataset is made publically. First figure shows some 2D slices taken from CT scans of CC-19 dataset. Moreover, some selected 3D samples from the dataset are shown in Figure. The Hounsfield unit (HU) is the measurement of CT scans radiodensity as shown in Table. Usually, CT scanning devices are carefully calibrated to measure the HU units. This unit can be employed to extract the relevant information in CT Scan slices. The CT scan slices have cylindrical scanning bounds. For unknown reasons, the pixel information that lies outside this cylindrical bound was automatically discarded by the CT scanner system. But fortunately, this discarding of outer pixels eliminates some steps for preprocessing.
 
@@ -16,6 +16,8 @@ Collecting  dataset is a challenging task as there are many ethical and privacy 
 we train the extracted features using to layers of the capsule network.](https://github.com/abdkhanstd/COVID-19/blob/master/Images/5.png)
 #### Performance of Deep learning models
 ![The performance of some famous deep learning networks. The bold values represent the best performance. It can be seen that the capsule network exhibited the highest sensitivity while ResNet 0.249 has the best specificity.](https://github.com/abdkhanstd/COVID-19/blob/master/Images/4.png)
+
+#### We are barganing for 30,000+ patients data. Hopefully we add and upload the data soon.
 
 
 #### Further information will be updated later on.
