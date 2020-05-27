@@ -12,3 +12,9 @@ Collecting  dataset is a challenging task as there are many ethical and privacy 
 
 
 #### Further information will be updated later on.
+#### How to tun files?
+#### Test and Train splits
+#### Federated Learning Code
+#### Preorecessing 3D volumes
+#### How to request dataset?
+#### Cite As
