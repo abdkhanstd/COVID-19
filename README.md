@@ -36,7 +36,7 @@ The performance of some famous deep learning networks. The bold values represent
 #### Download dataset
 The data set is about 16GB uncompressed. The compressed version of the dataset is shared via One drive 10GB approximately. The files contain 3D volume or CT scan slices of 89 subjects. The data set can be downloaded using this link.
 
-#### We are bargaining for 30,000+ patients data. Hopefully we add and upload the data soon.
+#### We are bargaining for 30,000+ patients data. Hopefully we will add and upload the data soon.
 
 
 ##### Further information will be updated later on.
