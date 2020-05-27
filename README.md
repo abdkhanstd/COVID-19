@@ -10,6 +10,13 @@ Collecting  dataset is a challenging task as there are many ethical and privacy 
 
 ![Various values of Hounsfield unit (HU) for different substances.](https://github.com/abdkhanstd/COVID-19/blob/master/Images/3.png)
 
+#### Modified Inception V3 and Capsule base Model
+
+![Deep Learning Model for COVID-19. We employ a modified version of inception V3 (IV3*)deep learning model as a feature extraction pipeline. Further,
+we train the extracted features using to layers of the capsule network.](https://github.com/abdkhanstd/COVID-19/blob/master/Images/5.png)
+#### Performance of Deep learning models
+![The performance of some famous deep learning networks. The bold values represent the best performance. It can be seen that the capsule network exhibited the highest sensitivity while ResNet 0.249 has the best specificity.](https://github.com/abdkhanstd/COVID-19/blob/master/Images/4.png)
+
 
 #### Further information will be updated later on.
 #### How to tun files?
