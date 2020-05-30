@@ -34,7 +34,7 @@ The performance of some famous deep learning networks. The bold values represent
 ![The performance of some famous deep learning networks. The bold values represent the best performance. It can be seen that the capsule network exhibited the highest sensitivity while ResNet 0.249 has the best specificity.](https://github.com/abdkhanstd/COVID-19/blob/master/Images/4.png)
 
 #### Download dataset
-The data set is about 16GB uncompressed. The compressed version of the dataset is shared via One drive 10GB approximately. The files contain 3D volume or CT scan slices of 89 subjects. The data set can be downloaded using this link.
+The data set is about 16GB uncompressed. The compressed version of the dataset is shared via One drive 10GB approximately. The files contain 3D volume or CT scan slices of 89 subjects. The data set can be downloaded using this [link](https://stduestceducn-my.sharepoint.com/:u:/g/personal/201714060114_std_uestc_edu_cn/EUucCIoQrEtPurKzMAOmJAEBUUKS3opCUSevB_boN1kqQA?e=XNb6U5).
 
 #### We are bargaining for 30,000+ patients data. Hopefully we will add and upload the data soon.
 
