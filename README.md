@@ -39,12 +39,15 @@ The data set is about 16GB uncompressed. The compressed version of the dataset i
 #### We are bargaining for 30,000+ patients data. Hopefully we will add and upload the data soon.
 
 
-##### Further information will be updated later on.
 ##### How to run Python code?
+Reqirements: Tensorflow-gpu==1.14.0, Keras==2.08. Simply run each code.
 ##### Test and Train splits
+Official Test/ Train split lists are added
 ##### Federated Learning Code
 ##### Preorecessing 3D volumes
 ##### How to request dataset?
+You can simply download the dataset, the password is for the archive is 'thankyou'
+##### Please cite As:
 ```
 @misc{kumar2020blockchainfederatedlearning,
     title={Blockchain-Federated-Learning and Deep Learning Models for COVID-19 detection using CT Imaging},
@@ -55,4 +58,3 @@ The data set is about 16GB uncompressed. The compressed version of the dataset i
     primaryClass={eess.IV}
 }
 ```
-##### Cite As:
