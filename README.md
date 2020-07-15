@@ -45,4 +45,14 @@ The data set is about 16GB uncompressed. The compressed version of the dataset i
 ##### Federated Learning Code
 ##### Preorecessing 3D volumes
 ##### How to request dataset?
+'''
+@misc{kumar2020blockchainfederatedlearning,
+    title={Blockchain-Federated-Learning and Deep Learning Models for COVID-19 detection using CT Imaging},
+    author={Rajesh Kumar and Abdullah Aman Khan and Sinmin Zhang and WenYong Wang and Yousif Abuidris and Waqas Amin and Jay Kumar},
+    year={2020},
+    eprint={2007.06537},
+    archivePrefix={arXiv},
+    primaryClass={eess.IV}
+}
+'''
 ##### Cite As:
