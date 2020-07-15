@@ -40,13 +40,13 @@ The data set is about 16GB uncompressed. The compressed version of the dataset i
 
 
 ##### How to run Python code?
-Reqirements: Tensorflow-gpu==1.14.0, Keras==2.08. Simply run each code.
+```Reqirements: Tensorflow-gpu==1.14.0, Keras==2.08. Simply run each code.```
 ##### Test and Train splits
-Official Test/ Train split lists are added
+```Official Test/ Train split lists are added```
 ##### Federated Learning Code
 ##### Preorecessing 3D volumes
 ##### How to request dataset?
-You can simply download the dataset, the password is for the archive is 'thankyou'
+```You can simply download the dataset, the password is for the archive is 'thankyou'```
 ##### Please cite As:
 ```
 @misc{kumar2020blockchainfederatedlearning,
