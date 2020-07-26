@@ -46,7 +46,7 @@ The data set is about 16GB uncompressed. The compressed version of the dataset i
 ##### Federated Learning Code
 ##### Preorecessing 3D volumes
 ##### How to request dataset?
-```You can simply download the dataset, the password is for the archive is 'thankyou'```
+```You can simply download the dataset, the password for the archive is 'thankyou'```
 ##### Please cite As:
 ```
 @misc{kumar2020blockchainfederatedlearning,
