@@ -57,12 +57,14 @@ Donload Supplimentary dataset (I dont remember the source, but found it on GitHu
 ```You can simply download the dataset, the password for the archive is 'thankyou'```
 ##### Please cite As:
 ```
-@misc{kumar2020blockchainfederatedlearning,
-    title={Blockchain-Federated-Learning and Deep Learning Models for COVID-19 detection using CT Imaging},
-    author={Rajesh Kumar and Abdullah Aman Khan and Sinmin Zhang and WenYong Wang and Yousif Abuidris and Waqas Amin and Jay Kumar},
-    year={2020},
-    eprint={2007.06537},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@article{kumar2021blockchain,
+  title={Blockchain-federated-learning and deep learning models for covid-19 detection using ct imaging},
+  author={Kumar, Rajesh and Khan, Abdullah Aman and Kumar, Jay and Golilarz, Noorbakhsh Amiri and Zhang, Simin and Ting, Yang and Zheng, Chengyu and Wang, Wenyong and  others},
+  journal={IEEE Sensors Journal},
+  volume={21},
+  number={14},
+  pages={16301--16314},
+  year={2021},
+  publisher={IEEE}
 }
 ```
