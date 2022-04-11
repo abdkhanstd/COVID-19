@@ -67,4 +67,10 @@ Donload Supplimentary dataset (I dont remember the source, but found it on GitHu
   year={2021},
   publisher={IEEE}
 }
+
+or
+
+R. Kumar et al., "Blockchain-Federated-Learning and Deep Learning Models for COVID-19 Detection Using CT Imaging," in IEEE Sensors Journal, vol. 21, no. 14, pp. 16301-16314, 15 July15, 2021, doi: 10.1109/JSEN.2021.3076767.
+
+
 ```
